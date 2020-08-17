@@ -1,0 +1,7 @@
+/home/mad/embedded/test_cmake/myworld/CMakeFiles/install/strip.dir
+/home/mad/embedded/test_cmake/myworld/CMakeFiles/install/local.dir
+/home/mad/embedded/test_cmake/myworld/CMakeFiles/install.dir
+/home/mad/embedded/test_cmake/myworld/CMakeFiles/list_install_components.dir
+/home/mad/embedded/test_cmake/myworld/CMakeFiles/rebuild_cache.dir
+/home/mad/embedded/test_cmake/myworld/CMakeFiles/edit_cache.dir
+/home/mad/embedded/test_cmake/myworld/CMakeFiles/myworld.dir
